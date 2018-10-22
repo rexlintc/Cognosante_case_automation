@@ -1,0 +1,724 @@
+15:11:55,83 root INFO Loading train data
+15:11:55,601 root INFO Processing data
+15:11:55,601 root INFO Balancing raw labeled data
+15:11:55,631 root INFO Balanced dataset will have 555 samples per class
+15:11:55,641 root INFO Upsampling class: APTC
+15:11:57,40 root INFO Upsampling class: Appeal
+15:11:58,504 root INFO Downsampling class: Coverage
+15:11:58,515 root INFO Upsampling class: Fraud
+15:12:00,581 root INFO Downsampling class: No 1095
+15:12:00,610 root INFO Downsampling class: Period
+15:12:00,626 root INFO Upsampling class: Premium
+15:12:03,234 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:12:04,600 root INFO Initializing model
+15:12:05,64 root INFO None
+15:12:05,65 root INFO Training model
+15:13:57,721 root INFO Saving trained model
+15:10:56,973 root INFO Loading train data
+15:10:58,594 root INFO Processing data
+15:10:58,594 root INFO Balancing raw labeled data
+15:10:58,677 root INFO Balanced dataset will have 555 samples per class
+15:10:58,708 root INFO Upsampling class: APTC
+15:11:02,898 root INFO Upsampling class: Appeal
+15:11:07,487 root INFO Downsampling class: Coverage
+15:11:07,518 root INFO Upsampling class: Fraud
+15:11:13,718 root INFO Downsampling class: No 1095
+15:11:13,765 root INFO Downsampling class: Period
+15:11:13,812 root INFO Upsampling class: Premium
+15:11:21,644 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:11:25,502 root INFO Initializing model
+15:11:27,108 root INFO None
+15:11:27,108 root INFO Training model
+15:14:45,941 root INFO Saving trained model
+15:28:00,652 root INFO Loading train data
+15:28:02,695 root INFO Processing data
+15:28:02,696 root INFO Balancing raw labeled data
+15:28:02,792 root INFO Balanced dataset will have 555 samples per class
+15:28:02,838 root INFO Upsampling class: APTC
+15:28:08,70 root INFO Upsampling class: Appeal
+15:28:14,953 root INFO Downsampling class: Coverage
+15:28:14,990 root INFO Upsampling class: Fraud
+15:28:23,867 root INFO Downsampling class: No 1095
+15:28:23,948 root INFO Downsampling class: Period
+15:28:24,4 root INFO Upsampling class: Premium
+15:28:33,934 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:28:38,419 root INFO Initializing model
+15:28:39,316 root INFO None
+15:28:39,317 root INFO Training model
+15:31:29,382 root INFO Saving trained model
+15:37:03,445 root INFO Loading train data
+15:37:04,975 root INFO Processing data
+15:37:04,975 root INFO Balancing raw labeled data
+15:37:05,52 root INFO Balanced dataset will have 555 samples per class
+15:37:05,82 root INFO Upsampling class: APTC
+15:37:09,606 root INFO Upsampling class: Appeal
+15:37:14,391 root INFO Downsampling class: Coverage
+15:37:14,428 root INFO Upsampling class: Fraud
+15:37:20,828 root INFO Downsampling class: No 1095
+15:37:20,884 root INFO Downsampling class: Period
+15:37:20,923 root INFO Upsampling class: Premium
+15:37:28,710 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:37:32,549 root INFO Initializing model
+15:37:33,792 root INFO None
+15:37:33,792 root INFO Training model
+15:40:09,270 root INFO Saving trained model
+15:40:45,634 root INFO Loading train data
+15:40:47,158 root INFO Processing data
+15:40:47,158 root INFO Balancing raw labeled data
+15:40:47,237 root INFO Balanced dataset will have 555 samples per class
+15:40:47,271 root INFO Upsampling class: APTC
+15:40:51,514 root INFO Upsampling class: Appeal
+15:40:56,109 root INFO Downsampling class: Coverage
+15:40:56,147 root INFO Upsampling class: Fraud
+15:41:02,398 root INFO Downsampling class: No 1095
+15:41:02,454 root INFO Downsampling class: Period
+15:41:02,492 root INFO Upsampling class: Premium
+15:41:10,795 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:41:15,105 root INFO Initializing model
+15:41:16,325 root INFO None
+15:41:16,325 root INFO Training model
+15:44:30,807 root INFO Saving trained model
+15:59:29,137 root INFO Loading train data
+15:59:29,701 root INFO Processing data
+15:59:29,701 root INFO Balancing raw labeled data
+15:59:29,732 root INFO Balanced dataset will have 555 samples per class
+15:59:29,741 root INFO Upsampling class: APTC
+15:59:31,64 root INFO Upsampling class: Appeal
+15:59:32,458 root INFO Downsampling class: Coverage
+15:59:32,471 root INFO Upsampling class: Fraud
+15:59:34,450 root INFO Downsampling class: No 1095
+15:59:34,472 root INFO Downsampling class: Period
+15:59:34,484 root INFO Upsampling class: Premium
+15:59:36,962 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:59:38,282 root INFO Initializing model
+15:59:38,732 root INFO None
+15:59:38,732 root INFO Training model
+16:03:00,56 root INFO Saving trained model
+16:05:07,690 root INFO Loading train data
+16:05:09,267 root INFO Processing data
+16:05:09,267 root INFO Balancing raw labeled data
+16:05:09,343 root INFO Balanced dataset will have 555 samples per class
+16:05:09,373 root INFO Upsampling class: APTC
+16:05:13,743 root INFO Upsampling class: Appeal
+16:05:19,953 root INFO Downsampling class: Coverage
+16:05:20,12 root INFO Upsampling class: Fraud
+16:05:28,546 root INFO Downsampling class: No 1095
+16:05:28,614 root INFO Downsampling class: Period
+16:05:28,658 root INFO Upsampling class: Premium
+16:05:37,345 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+16:05:42,585 root INFO Initializing model
+16:05:44,2 root INFO None
+16:05:44,3 root INFO Training model
+16:12:17,400 root INFO Saving trained model
+16:12:38,845 root INFO Loading train data
+16:12:40,421 root INFO Processing data
+16:12:40,422 root INFO Balancing raw labeled data
+16:12:40,501 root INFO Balanced dataset will have 555 samples per class
+16:12:40,532 root INFO Upsampling class: APTC
+16:12:44,817 root INFO Upsampling class: Appeal
+16:12:50,362 root INFO Downsampling class: Coverage
+16:12:50,401 root INFO Upsampling class: Fraud
+16:12:57,19 root INFO Downsampling class: No 1095
+16:12:57,77 root INFO Downsampling class: Period
+16:12:57,118 root INFO Upsampling class: Premium
+16:13:05,657 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+16:13:10,161 root INFO Initializing model
+16:13:11,100 root INFO None
+16:13:11,100 root INFO Training model
+16:19:37,345 root INFO Saving trained model
+16:26:56,874 root INFO Loading train data
+16:26:58,397 root INFO Processing data
+16:26:58,397 root INFO Balancing raw labeled data
+16:26:58,475 root INFO Balanced dataset will have 555 samples per class
+16:26:58,505 root INFO Upsampling class: APTC
+16:27:03,894 root INFO Upsampling class: Appeal
+16:27:09,915 root INFO Downsampling class: Coverage
+16:27:09,953 root INFO Upsampling class: Fraud
+16:27:16,748 root INFO Downsampling class: No 1095
+16:27:16,823 root INFO Downsampling class: Period
+16:27:16,871 root INFO Upsampling class: Premium
+16:27:26,597 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+16:27:30,144 root INFO Initializing model
+16:27:31,508 root INFO None
+16:27:31,508 root INFO Training model
+16:34:14,777 root INFO Saving trained model
+16:38:27,744 root INFO Loading train data
+16:38:29,321 root INFO Processing data
+16:38:29,322 root INFO Balancing raw labeled data
+16:38:29,406 root INFO Balanced dataset will have 555 samples per class
+16:38:29,450 root INFO Upsampling class: APTC
+16:38:35,514 root INFO Upsampling class: Appeal
+16:38:41,908 root INFO Downsampling class: Coverage
+16:38:42,19 root INFO Upsampling class: Fraud
+16:38:49,446 root INFO Downsampling class: No 1095
+16:38:49,502 root INFO Downsampling class: Period
+16:38:49,541 root INFO Upsampling class: Premium
+16:38:57,937 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+16:39:02,81 root INFO Initializing model
+16:39:03,381 root INFO None
+16:39:03,381 root INFO Training model
+16:45:32,717 root INFO Saving trained model
+16:46:00,127 root INFO Loading train data
+16:46:02,725 root INFO Processing data
+16:46:02,725 root INFO Balancing raw labeled data
+16:46:02,819 root INFO Balanced dataset will have 555 samples per class
+16:46:02,860 root INFO Upsampling class: APTC
+16:46:07,915 root INFO Upsampling class: Appeal
+16:46:12,526 root INFO Downsampling class: Coverage
+16:46:12,563 root INFO Upsampling class: Fraud
+16:46:19,1 root INFO Downsampling class: No 1095
+16:46:19,54 root INFO Downsampling class: Period
+16:46:19,93 root INFO Upsampling class: Premium
+16:46:26,992 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+16:46:30,821 root INFO Initializing model
+16:46:32,23 root INFO None
+16:46:32,24 root INFO Training model
+16:52:59,58 root INFO Saving trained model
+16:53:32,363 root INFO Loading train data
+16:53:33,914 root INFO Processing data
+16:53:33,914 root INFO Balancing raw labeled data
+16:53:33,993 root INFO Balanced dataset will have 555 samples per class
+16:53:34,24 root INFO Upsampling class: APTC
+16:53:39,32 root INFO Upsampling class: Appeal
+16:53:44,563 root INFO Downsampling class: Coverage
+16:53:44,602 root INFO Upsampling class: Fraud
+16:53:51,385 root INFO Downsampling class: No 1095
+16:53:51,446 root INFO Downsampling class: Period
+16:53:51,486 root INFO Upsampling class: Premium
+16:53:59,604 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+16:54:03,812 root INFO Initializing model
+16:54:05,330 root INFO None
+16:54:05,330 root INFO Training model
+17:00:37,218 root INFO Saving trained model
+17:01:10,775 root INFO Loading train data
+17:01:12,39 root INFO Processing data
+17:01:12,40 root INFO Balancing raw labeled data
+17:01:12,108 root INFO Balanced dataset will have 555 samples per class
+17:01:12,128 root INFO Upsampling class: APTC
+17:01:15,26 root INFO Upsampling class: Appeal
+17:01:17,138 root INFO Downsampling class: Coverage
+17:01:17,192 root INFO Upsampling class: Fraud
+17:01:24,682 root INFO Downsampling class: No 1095
+17:01:24,745 root INFO Downsampling class: Period
+17:01:24,791 root INFO Upsampling class: Premium
+17:01:35,922 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+17:01:40,302 root INFO Initializing model
+17:01:40,920 root INFO None
+17:01:40,920 root INFO Training model
+17:08:28,353 root INFO Saving trained model
+17:10:54,759 root INFO Loading train data
+17:10:56,263 root INFO Processing data
+17:10:56,264 root INFO Balancing raw labeled data
+17:10:56,336 root INFO Balanced dataset will have 555 samples per class
+17:10:56,370 root INFO Upsampling class: APTC
+17:11:00,654 root INFO Upsampling class: Appeal
+17:11:06,137 root INFO Downsampling class: Coverage
+17:11:06,174 root INFO Upsampling class: Fraud
+17:11:13,876 root INFO Downsampling class: No 1095
+17:11:13,949 root INFO Downsampling class: Period
+17:11:14,15 root INFO Upsampling class: Premium
+17:11:24,633 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+17:11:28,977 root INFO Initializing model
+17:11:30,629 root INFO None
+17:11:30,630 root INFO Training model
+17:18:35,39 root INFO Saving trained model
+12:14:44,525 root INFO Loading unclassified data for prediction
+12:14:44,714 root INFO Processing data
+12:14:44,715 root INFO Processing data
+12:14:47,723 root INFO Loading saved model
+12:15:08,502 root INFO Writing prediction output to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\output
+12:40:55,566 root INFO Loading evaluation data
+12:40:55,737 root INFO Processing data
+12:42:45,880 root INFO Loading evaluation data
+12:42:46,16 root INFO Processing data
+12:43:10,891 root INFO Model Accuracy: 0.5451880801172447
+12:44:54,540 root INFO Loading evaluation data
+12:44:56,223 root INFO Processing data
+12:50:34,14 root INFO Model Accuracy: 0.5895669172569415
+13:10:21,470 root INFO Loading train data
+13:10:23,65 root INFO Processing data
+13:10:23,65 root INFO Balancing raw labeled data
+13:10:23,164 root INFO Balanced dataset will have 555 samples per class
+13:10:23,182 root INFO Upsampling class: APTC
+13:10:27,568 root INFO Upsampling class: Appeal
+13:10:32,139 root INFO Downsampling class: Coverage
+13:10:32,180 root INFO Upsampling class: Fraud
+13:10:38,798 root INFO Downsampling class: No 1095
+13:10:38,866 root INFO Downsampling class: Period
+13:10:38,915 root INFO Upsampling class: Premium
+13:10:46,895 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+13:10:50,700 root INFO Initializing model
+13:10:52,4 root INFO None
+13:10:52,5 root INFO Training model
+13:18:25,489 root INFO Saving trained model
+13:31:16,914 root INFO Loading evaluation data
+13:31:18,664 root INFO Processing data
+13:36:30,524 root INFO Model Accuracy: 0.6266365797444221
+13:37:54,279 root INFO Loading train data
+13:37:56,69 root INFO Processing data
+13:37:56,69 root INFO Balancing raw labeled data
+13:37:56,175 root INFO Balanced dataset will have 555 samples per class
+13:37:56,215 root INFO Upsampling class: APTC
+13:37:59,882 root INFO Upsampling class: Appeal
+13:38:03,711 root INFO Downsampling class: Coverage
+13:38:03,747 root INFO Upsampling class: Fraud
+13:38:13,3 root INFO Downsampling class: No 1095
+13:38:13,161 root INFO Downsampling class: Period
+13:38:13,343 root INFO Upsampling class: Premium
+13:38:23,272 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+13:38:27,547 root INFO Initializing model
+13:38:28,55 root INFO None
+13:38:28,55 root INFO Training model
+13:44:09,475 root INFO Saving trained model
+13:55:04,756 root INFO Loading train data
+13:55:06,375 root INFO Processing data
+13:55:06,375 root INFO Balancing raw labeled data
+13:55:06,456 root INFO Balanced dataset will have 555 samples per class
+13:55:06,482 root INFO Upsampling class: APTC
+13:55:10,787 root INFO Upsampling class: Appeal
+13:55:15,994 root INFO Downsampling class: Coverage
+13:55:16,29 root INFO Upsampling class: Fraud
+13:55:23,870 root INFO Downsampling class: No 1095
+13:55:23,894 root INFO Downsampling class: Period
+13:55:23,909 root INFO Upsampling class: Premium
+13:55:28,617 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+13:55:33,71 root INFO Initializing model
+13:55:33,847 root INFO None
+13:55:33,847 root INFO Training model
+14:19:17,164 root INFO Loading train data
+14:19:17,699 root INFO Processing data
+14:19:17,699 root INFO Balancing raw labeled data
+14:19:17,729 root INFO Balanced dataset will have 555 samples per class
+14:19:17,740 root INFO Upsampling class: APTC
+14:19:19,60 root INFO Upsampling class: Appeal
+14:19:20,531 root INFO Downsampling class: Coverage
+14:19:20,544 root INFO Upsampling class: Fraud
+14:19:22,531 root INFO Downsampling class: No 1095
+14:19:22,554 root INFO Downsampling class: Period
+14:19:22,568 root INFO Upsampling class: Premium
+14:19:25,636 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+14:19:27,64 root INFO Initializing model
+14:19:27,552 root INFO None
+14:19:27,552 root INFO Training model
+14:26:57,753 root INFO Loading train data
+14:26:58,363 root INFO Processing data
+14:26:58,363 root INFO Balancing raw labeled data
+14:26:58,396 root INFO Balanced dataset will have 555 samples per class
+14:26:58,406 root INFO Upsampling class: APTC
+14:26:59,725 root INFO Upsampling class: Appeal
+14:27:01,147 root INFO Downsampling class: Coverage
+14:27:01,160 root INFO Upsampling class: Fraud
+14:27:03,194 root INFO Downsampling class: No 1095
+14:27:03,217 root INFO Downsampling class: Period
+14:27:03,229 root INFO Upsampling class: Premium
+14:27:05,757 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+14:27:07,158 root INFO Initializing model
+14:27:07,663 root INFO None
+14:27:07,663 root INFO Training model
+14:52:52,27 root INFO Saving trained model
+14:54:52,958 root INFO Loading train data
+14:54:53,517 root INFO Processing data
+14:54:53,517 root INFO Balancing raw labeled data
+14:54:53,548 root INFO Balanced dataset will have 555 samples per class
+14:54:53,557 root INFO Upsampling class: APTC
+14:54:54,900 root INFO Upsampling class: Appeal
+14:54:57,91 root INFO Downsampling class: Coverage
+14:54:57,106 root INFO Upsampling class: Fraud
+14:54:59,706 root INFO Downsampling class: No 1095
+14:54:59,728 root INFO Downsampling class: Period
+14:54:59,741 root INFO Upsampling class: Premium
+14:55:02,462 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+14:55:03,872 root INFO Initializing model
+14:55:04,327 root INFO None
+14:55:04,328 root INFO Training model
+15:19:41,157 root INFO Loading train data
+15:19:43,17 root INFO Processing data
+15:19:43,18 root INFO Balancing raw labeled data
+15:19:43,114 root INFO Balanced dataset will have 555 samples per class
+15:19:43,148 root INFO Upsampling class: APTC
+15:19:49,352 root INFO Upsampling class: Appeal
+15:19:55,689 root INFO Downsampling class: Coverage
+15:19:55,812 root INFO Upsampling class: Fraud
+15:20:03,293 root INFO Downsampling class: No 1095
+15:20:03,346 root INFO Downsampling class: Period
+15:20:03,383 root INFO Upsampling class: Premium
+15:20:12,625 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:20:16,463 root INFO Initializing model
+15:20:17,696 root INFO None
+15:20:17,697 root INFO Training model
+09:02:45,304 root INFO Loading train data
+09:02:46,886 root INFO Processing data
+09:02:46,886 root INFO Balancing raw labeled data
+09:02:46,964 root INFO Balanced dataset will have 555 samples per class
+09:02:46,995 root INFO Upsampling class: APTC
+09:02:51,451 root INFO Upsampling class: Appeal
+09:02:56,66 root INFO Downsampling class: Coverage
+09:02:56,97 root INFO Upsampling class: Fraud
+09:03:02,464 root INFO Downsampling class: No 1095
+09:03:02,527 root INFO Downsampling class: Period
+09:03:02,558 root INFO Upsampling class: Premium
+09:03:10,313 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+09:03:14,474 root INFO Initializing model
+09:03:15,718 root INFO None
+09:03:15,718 root INFO Training model
+09:05:38,0 root INFO Loading train data
+09:05:39,476 root INFO Processing data
+09:05:39,476 root INFO Balancing raw labeled data
+09:05:39,555 root INFO Balanced dataset will have 555 samples per class
+09:05:39,570 root INFO Upsampling class: APTC
+09:05:43,844 root INFO Upsampling class: Appeal
+09:05:48,537 root INFO Downsampling class: Coverage
+09:05:48,568 root INFO Upsampling class: Fraud
+09:05:54,771 root INFO Downsampling class: No 1095
+09:05:54,818 root INFO Downsampling class: Period
+09:05:54,865 root INFO Upsampling class: Premium
+09:06:03,615 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+09:06:08,499 root INFO Initializing model
+09:06:09,516 root INFO None
+09:06:09,516 root INFO Training model
+09:08:06,775 root INFO Loading train data
+09:08:08,658 root INFO Processing data
+09:08:08,659 root INFO Balancing raw labeled data
+09:08:08,740 root INFO Balanced dataset will have 555 samples per class
+09:08:08,771 root INFO Upsampling class: APTC
+09:08:13,379 root INFO Upsampling class: Appeal
+09:08:17,925 root INFO Downsampling class: Coverage
+09:08:17,972 root INFO Upsampling class: Fraud
+09:08:24,258 root INFO Downsampling class: No 1095
+09:08:24,313 root INFO Downsampling class: Period
+09:08:24,352 root INFO Upsampling class: Premium
+09:08:31,615 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+09:08:35,317 root INFO Initializing model
+09:08:36,529 root INFO None
+09:08:36,530 root INFO Training model
+09:09:37,290 root INFO Saving trained model
+10:04:07,557 root INFO Loading train data
+10:04:08,796 root INFO Processing data
+10:04:08,797 root INFO Balancing raw labeled data
+10:04:08,931 root INFO Balanced dataset will have 555 samples per class
+10:04:09,3 root INFO Upsampling class: APTC
+10:04:11,424 root INFO Upsampling class: Appeal
+10:04:13,490 root INFO Downsampling class: Coverage
+10:04:13,504 root INFO Upsampling class: Fraud
+10:04:18,778 root INFO Downsampling class: No 1095
+10:04:18,844 root INFO Downsampling class: Period
+10:04:18,907 root INFO Upsampling class: Premium
+10:04:25,572 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+10:04:26,994 root INFO Initializing model
+10:04:27,753 root INFO None
+10:04:27,754 root INFO Training model
+11:13:30,71 root INFO Loading train data
+11:13:31,796 root INFO Processing data
+11:13:31,797 root INFO Balancing raw labeled data
+11:13:31,877 root INFO Balanced dataset will have 555 samples per class
+11:13:31,908 root INFO Upsampling class: APTC
+11:13:36,425 root INFO Upsampling class: Appeal
+11:13:41,98 root INFO Downsampling class: Coverage
+11:13:41,134 root INFO Upsampling class: Fraud
+11:13:47,549 root INFO Downsampling class: No 1095
+11:13:47,609 root INFO Downsampling class: Period
+11:13:47,649 root INFO Upsampling class: Premium
+11:13:56,669 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+11:14:00,934 root INFO Initializing model
+11:14:02,166 root INFO None
+11:14:02,166 root INFO Training model
+11:19:32,686 root INFO Loading train data
+11:19:34,339 root INFO Processing data
+11:19:34,339 root INFO Balancing raw labeled data
+11:19:34,436 root INFO Balanced dataset will have 555 samples per class
+11:19:34,477 root INFO Upsampling class: APTC
+11:19:39,205 root INFO Upsampling class: Appeal
+11:19:44,461 root INFO Downsampling class: Coverage
+11:19:44,504 root INFO Upsampling class: Fraud
+11:19:52,289 root INFO Downsampling class: No 1095
+11:19:52,350 root INFO Downsampling class: Period
+11:19:52,390 root INFO Upsampling class: Premium
+11:20:01,333 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+11:20:05,756 root INFO Initializing model
+11:20:06,915 root INFO None
+11:20:06,915 root INFO Training model
+11:27:54,821 root INFO Loading evaluation data
+11:27:56,429 root INFO Processing data
+14:06:27,111 root INFO Loading train data
+14:06:28,743 root INFO Processing data
+14:06:28,744 root INFO Balancing raw labeled data
+14:06:28,829 root INFO Balanced dataset will have 555 samples per class
+14:06:28,868 root INFO Upsampling class: APTC
+14:06:33,626 root INFO Upsampling class: Appeal
+14:06:38,759 root INFO Downsampling class: Coverage
+14:06:38,806 root INFO Upsampling class: Fraud
+14:06:45,643 root INFO Downsampling class: No 1095
+14:06:45,703 root INFO Downsampling class: Period
+14:06:45,745 root INFO Upsampling class: Premium
+14:06:53,986 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+14:06:58,25 root INFO Initializing model
+14:06:59,559 root INFO None
+14:06:59,560 root INFO Training model
+14:26:42,339 root INFO Saving trained model
+14:27:14,966 root INFO Loading evaluation data
+14:27:16,733 root INFO Processing data
+14:31:56,263 root INFO Loading evaluation data
+14:31:57,964 root INFO Processing data
+14:34:33,120 root INFO Loading evaluation data
+14:34:35,91 root INFO Processing data
+14:38:30,653 root INFO Model Accuracy: 0.25478152791688286
+15:00:11,878 root INFO Loading train data
+15:00:13,613 root INFO Processing data
+15:00:13,613 root INFO Balancing raw labeled data
+15:00:13,706 root INFO Balanced dataset will have 555 samples per class
+15:00:13,740 root INFO Upsampling class: APTC
+15:00:18,517 root INFO Upsampling class: Appeal
+15:00:23,888 root INFO Downsampling class: Coverage
+15:00:23,927 root INFO Upsampling class: Fraud
+15:00:31,561 root INFO Downsampling class: No 1095
+15:00:31,623 root INFO Downsampling class: Period
+15:00:31,668 root INFO Upsampling class: Premium
+15:00:41,44 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:00:45,254 root INFO Initializing model
+15:00:46,753 root INFO None
+15:00:46,754 root INFO Training model
+15:01:38,170 root INFO Loading train data
+15:01:39,766 root INFO Processing data
+15:01:39,767 root INFO Balancing raw labeled data
+15:01:39,840 root INFO Balanced dataset will have 555 samples per class
+15:01:39,875 root INFO Upsampling class: APTC
+15:01:44,778 root INFO Upsampling class: Appeal
+15:01:50,105 root INFO Downsampling class: Coverage
+15:01:50,141 root INFO Upsampling class: Fraud
+15:01:57,748 root INFO Downsampling class: No 1095
+15:01:57,804 root INFO Downsampling class: Period
+15:01:57,841 root INFO Upsampling class: Premium
+15:02:07,57 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:02:11,781 root INFO Initializing model
+15:02:13,177 root INFO None
+15:02:13,177 root INFO Training model
+15:14:07,233 root INFO Loading train data
+15:14:08,889 root INFO Processing data
+15:14:08,890 root INFO Balancing raw labeled data
+15:14:08,968 root INFO Balanced dataset will have 555 samples per class
+15:14:08,999 root INFO Upsampling class: APTC
+15:14:14,61 root INFO Upsampling class: Appeal
+15:14:18,891 root INFO Downsampling class: Coverage
+15:14:18,930 root INFO Upsampling class: Fraud
+15:14:25,784 root INFO Downsampling class: No 1095
+15:14:25,842 root INFO Downsampling class: Period
+15:14:25,896 root INFO Upsampling class: Premium
+15:14:34,51 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:14:50,27 tensorflow WARNING From C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\bin\tools\preprocess_data.py:124: VocabularyProcessor.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:14:50,285 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:154: CategoricalVocabulary.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.categorical_vocabulary) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:14:50,291 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:170: tokenizer (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:14:54,358 root INFO Initializing model
+15:14:55,396 root INFO None
+15:14:55,396 root INFO Training model
+15:30:38,588 root INFO Loading train data
+15:30:40,518 root INFO Processing data
+15:30:40,519 root INFO Balancing raw labeled data
+15:30:40,621 root INFO Balanced dataset will have 555 samples per class
+15:30:40,653 root INFO Upsampling class: APTC
+15:30:45,496 root INFO Upsampling class: Appeal
+15:30:50,246 root INFO Downsampling class: Coverage
+15:30:50,283 root INFO Upsampling class: Fraud
+15:30:56,786 root INFO Downsampling class: No 1095
+15:30:56,841 root INFO Downsampling class: Period
+15:30:56,879 root INFO Upsampling class: Premium
+15:31:04,764 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:31:20,234 tensorflow WARNING From C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\bin\tools\preprocess_data.py:124: VocabularyProcessor.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:31:20,472 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:154: CategoricalVocabulary.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.categorical_vocabulary) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:31:20,479 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:170: tokenizer (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:31:24,490 root INFO Initializing model
+15:34:09,429 root INFO Loading train data
+15:34:11,39 root INFO Processing data
+15:34:11,40 root INFO Balancing raw labeled data
+15:34:11,115 root INFO Balanced dataset will have 555 samples per class
+15:34:11,144 root INFO Upsampling class: APTC
+15:34:15,781 root INFO Upsampling class: Appeal
+15:34:20,474 root INFO Downsampling class: Coverage
+15:34:20,511 root INFO Upsampling class: Fraud
+15:34:27,852 root INFO Downsampling class: No 1095
+15:34:27,918 root INFO Downsampling class: Period
+15:34:27,966 root INFO Upsampling class: Premium
+15:34:37,101 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:34:52,566 tensorflow WARNING From C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\bin\tools\preprocess_data.py:124: VocabularyProcessor.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:34:52,959 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:154: CategoricalVocabulary.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.categorical_vocabulary) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:34:52,968 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:170: tokenizer (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:34:56,702 root INFO Initializing model
+15:35:39,248 root INFO Loading train data
+15:35:40,953 root INFO Processing data
+15:35:40,954 root INFO Balancing raw labeled data
+15:35:41,49 root INFO Balanced dataset will have 555 samples per class
+15:35:41,90 root INFO Upsampling class: APTC
+15:35:46,161 root INFO Upsampling class: Appeal
+15:35:51,456 root INFO Downsampling class: Coverage
+15:35:51,493 root INFO Upsampling class: Fraud
+15:35:59,193 root INFO Downsampling class: No 1095
+15:35:59,262 root INFO Downsampling class: Period
+15:35:59,299 root INFO Upsampling class: Premium
+15:36:08,844 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:36:26,783 tensorflow WARNING From C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\bin\tools\preprocess_data.py:124: VocabularyProcessor.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:36:27,13 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:154: CategoricalVocabulary.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.categorical_vocabulary) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:36:27,19 tensorflow WARNING From C:\Users\rlin\AppData\Local\Continuum\anaconda3\envs\cary_tf\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:170: tokenizer (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+15:36:31,909 root INFO Initializing model
+15:36:31,989 root INFO Training model
+15:36:49,412 root INFO Saving trained model
+15:58:56,589 root INFO Loading train data
+15:58:57,122 root INFO Processing data
+15:58:57,123 root INFO Balancing raw labeled data
+15:58:57,153 root INFO Balanced dataset will have 555 samples per class
+15:58:57,163 root INFO Upsampling class: APTC
+15:58:59,19 root INFO Upsampling class: Appeal
+15:59:00,554 root INFO Downsampling class: Coverage
+15:59:00,567 root INFO Upsampling class: Fraud
+15:59:02,627 root INFO Downsampling class: No 1095
+15:59:02,648 root INFO Downsampling class: Period
+15:59:02,661 root INFO Upsampling class: Premium
+15:59:05,221 root INFO Saving new balanced data to C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+15:59:07,103 root INFO Initializing model
+15:59:07,653 root INFO Training model
+16:03:05,263 root INFO Saving trained model
+17:29:27,574 root INFO Loading train data
+17:29:29,603 root INFO Processing data
+17:30:16,998 root INFO Initializing model
+17:30:17,766 root INFO Training model
+18:00:33,371 root INFO Saving trained model
+08:56:36,214 root INFO Loading train data
+08:56:37,79 root INFO Processing data
+08:57:00,510 root INFO Initializing model
+08:57:00,768 root INFO Training model
+08:58:06,863 root INFO Loading train data
+08:58:08,705 root INFO Processing data
+08:59:10,843 root INFO Initializing model
+08:59:10,968 root INFO Training model
+08:59:48,414 root INFO Saving trained model
+09:04:59,221 root INFO Loading train data
+09:05:00,388 root INFO Processing data
+09:05:40,596 root INFO Initializing model
+09:05:40,650 root INFO Training model
+09:06:38,570 root INFO Saving trained model
+09:07:08,954 root INFO Loading train data
+09:07:09,797 root INFO Processing data
+09:07:44,279 root INFO Initializing model
+09:07:44,326 root INFO Training model
+09:08:51,130 root INFO Saving trained model
+09:09:33,767 root INFO Loading evaluation data
+09:09:35,96 root INFO Processing data
+10:51:25,64 root INFO Loading evaluation data
+10:51:26,350 root INFO Processing data
+10:55:39,447 root INFO Loading train data
+10:55:40,475 root INFO Processing data
+10:56:21,749 root INFO Initializing model
+10:56:21,819 root INFO Training model
+10:57:55,180 root INFO Saving trained model
+10:58:20,454 root INFO Loading evaluation data
+10:58:21,344 root INFO Processing data
+11:04:09,566 root INFO Loading train data
+11:04:11,378 root INFO Processing data
+11:04:59,918 root INFO Initializing model
+11:04:59,988 root INFO Training model
+11:06:29,440 root INFO Saving trained model
+11:07:10,9 root INFO Loading evaluation data
+11:07:11,743 root INFO Processing data
+13:40:32,621 root INFO Loading train data
+13:40:34,499 root INFO Processing data
+13:41:10,394 root INFO Initializing model
+13:41:50,587 root INFO Loading train data
+13:41:52,373 root INFO Processing data
+13:42:33,974 root INFO Initializing model
+13:42:35,121 root INFO Training model
+13:43:39,451 root INFO Saving trained model
+13:45:15,333 root INFO Loading evaluation data
+13:45:16,205 root INFO Processing data
+13:45:57,339 root INFO Model Accuracy: 0.009098478357929795
+13:48:23,794 root INFO Loading evaluation data
+13:48:24,598 root INFO Processing data
+13:50:45,569 root INFO Loading evaluation data
+13:50:46,817 root INFO Processing data
+13:52:41,568 root INFO Loading evaluation data
+13:52:42,250 root INFO Processing data
+13:53:27,189 root INFO Model Accuracy: 0.9679381206936082
+13:57:25,731 root INFO Loading train data
+13:57:27,614 root INFO Processing data
+13:57:55,863 root INFO Initializing model
+13:57:56,372 root INFO Training model
+14:08:00,107 root INFO Loading train data
+14:08:01,185 root INFO Processing data
+14:08:59,989 root INFO Initializing model
+14:09:01,693 root INFO Training model
+14:21:35,505 root INFO Saving trained model
+14:27:55,116 root INFO Loading evaluation data
+14:27:56,920 root INFO Processing data
+14:29:45,175 root INFO Model Accuracy: 0.9596239939182585
+15:13:14,542 root INFO Loading train data
+15:13:15,770 root INFO Processing data
+15:14:28,407 root INFO Initializing model
+15:15:01,271 root INFO Loading train data
+15:15:03,194 root INFO Processing data
+15:16:22,803 root INFO Initializing model
+15:17:20,87 root INFO Loading train data
+15:17:21,779 root INFO Processing data
+15:18:28,76 root INFO Initializing model
+15:21:42,445 root INFO Loading train data
+15:21:43,935 root INFO Processing data
+15:22:47,334 root INFO Initializing model
+15:23:18,8 root INFO Loading train data
+15:23:19,529 root INFO Processing data
+15:24:20,605 root INFO Initializing model
+15:24:21,130 root INFO Training model
+15:26:18,213 root INFO Saving trained model
+15:36:25,859 root INFO Loading evaluation data
+15:36:27,532 root INFO Processing data
+15:38:01,471 root INFO Model Accuracy: 0.9688310748030071
+15:42:26,231 root INFO Loading train data
+15:42:27,780 root INFO Processing data
+15:43:43,124 root INFO Initializing model
+15:43:45,283 root INFO Training model
+15:46:27,992 root INFO Saving trained model
+15:47:19,876 root INFO Loading evaluation data
+15:47:21,555 root INFO Processing data
+15:48:54,222 root INFO Model Accuracy: 0.9740560630377334
+15:53:47,282 root INFO Loading train data
+15:53:48,788 root INFO Processing data
+15:55:10,228 root INFO Initializing model
+15:55:13,135 root INFO Training model
+15:58:35,781 root INFO Saving trained model
+15:59:27,401 root INFO Loading evaluation data
+15:59:29,504 root INFO Processing data
+16:02:36,391 root INFO Loading evaluation data
+16:02:38,40 root INFO Processing data
+16:04:10,337 root INFO Model Accuracy: 0.9740560630377334
+16:06:53,946 root INFO Loading evaluation data
+16:06:55,556 root INFO Processing data
+16:09:42,908 root INFO Loading evaluation data
+16:09:44,821 root INFO Processing data
+16:11:31,864 root INFO Model Accuracy: 0.9762281135741092
+16:13:37,279 root INFO Loading train data
+16:13:39,13 root INFO Processing data
+16:14:54,729 root INFO Initializing model
+16:14:56,340 root INFO Training model
+16:18:14,639 root INFO Saving trained model
+16:19:24,727 root INFO Loading evaluation data
+16:19:26,283 root INFO Processing data
+16:21:08,463 root INFO Model Accuracy: 0.977157268525781

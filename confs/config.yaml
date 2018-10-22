@@ -1,0 +1,5 @@
+raw_labeled_data_directory: C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\raw_data
+train_eval_data_directory: C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\train_eval_data
+unclassified_data_directory: C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\input\3885_balanced_regrouped_data.csv
+prediction_output_directory: C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\data\output
+model_directory: C:\Users\rlin\Documents\Projects\CERRS.NG.CaseAutomation\datascience-projects\case-automation\bin\models\current_model
