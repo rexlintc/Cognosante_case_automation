@@ -1,5 +1,6 @@
 ## Background Information
 Case Types and Corresponding Labels 
+
 | Case Label    | Case Type     |
 | ------------- |:-------------:|
 | 1             | APTC          |
