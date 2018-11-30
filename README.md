@@ -1,9 +1,7 @@
-
-
 This serves as a showcase for one of the projects I completed while I was a Data Analyst Intern at Cognosante (June 2018 - August 2018)
 
 ## Background Information
-Cognosante employs hundreds of seasonal call center representatives to take calls from customers who have issues regarding their 1095-A forms. They would transcribe/summarize their conversations with the customer and the issue woulde be resolved by other analysts. This project seeks to reduce the overhead cost of hiring and automate the process of classifying customer cases so only case resolution analysts are needed.
+Cognosante employs hundreds of seasonal call center representatives to take calls from customers who have issues regarding their 1095-A forms. They would transcribe/summarize their conversations with the customer and the issue woulde be resolved by other analysts. The goal of this project is to reduce the overhead cost of hiring by automating the process of classifying customer cases so fewer case resolution analysts are needed.
 
 ### Methodology
 Various classification models were attempted and the final model was a 2 layer LSTM model.
@@ -19,6 +17,14 @@ Case Types and Corresponding Labels
 | 5             | No 1095       |
 | 6             | Coverage      |
 | 7             | Period        |
+
+### Final model accuracy
+The final accuracy achieved by the model is 97.7%.
+
+### Future improvements
+- Better and newer word vectorization/embedding methods such as [GLOVE](https://nlp.stanford.edu/projects/glove/) or [Fasttext](https://fasttext.cc/) can be tested.
+- a better loss function, [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf), that addresses class imbalance can be tested
+- a different model architecture can be tested, in particular [Transformers](https://arxiv.org/abs/1706.03762v5)
 
 ### Note
 All sensitive information and data have been removed.
