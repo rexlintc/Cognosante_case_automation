@@ -7,7 +7,7 @@ Cognosante employs hundreds of seasonal call center representatives to take call
 Various classification models were attempted and the final model was a 2 layer LSTM model.
 
 ### Challenges
-One of the main challenges I ran into was significant class imabalance. Initially, I had to classify 18 cases and among them, several cases had only 1 sample data. I tried various methods such as over- and under-sampling, gathering more data, and I also tried to use a character level RNN to create more data. In the end, the best solution given the time I had was to regroup and merge some of the classes. As a result, the model changed from classifying 18 classes to 7 classes (shown below).
+One of the main challenges I ran into was significant class imabalance. Initially, I had to classify 18 cases and among them, several cases had only 1 sample data. I tried to balance the classes using various methods such as over- and under-sampling, gathering more data, and I also tried to use a character level RNN to create more data. In the end, the best solution given the time I had was to regroup and merge some of the classes. As a result, the model changed from classifying 18 classes to 7 classes (shown below).
 
 Case Types and Corresponding Labels 
 
