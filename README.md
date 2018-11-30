@@ -6,6 +6,9 @@ Cognosante employs hundreds of seasonal call center representatives to take call
 ### Methodology
 Various classification models were attempted and the final model was a 2 layer LSTM model.
 
+### Challenges
+One of the main challenges I ran into was significant class imabalance. Initially, I had to classify 18 cases and among them, several cases had only 1 sample data. I tried various methods such as over- and under-sampling, gathering more data, and I also tried to use a character level RNN to create more data. In the end, the best solution given the time I had was to regroup and merge some of the classes. As a result, the model changed from classifying 18 classes to 7 classes (shown below).
+
 Case Types and Corresponding Labels 
 
 | Case Label    | Case Type     |
@@ -22,9 +25,10 @@ Case Types and Corresponding Labels
 The final accuracy achieved by the model is 97.7%.
 
 ### Future improvements
-- Better and newer word vectorization/embedding methods such as [GLOVE](https://nlp.stanford.edu/projects/glove/) or [Fasttext](https://fasttext.cc/) can be tested.
+- Better and newer word vectorization/embedding methods such as [GLOVE](https://nlp.stanford.edu/projects/glove/) or [Fasttext](https://fasttext.cc/) can be tested
 - a better loss function, [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf), that addresses class imbalance can be tested
 - a different model architecture can be tested, in particular [Transformers](https://arxiv.org/abs/1706.03762v5)
+- Because of the regrouping of the classes, smaller models can be built to further classify grouped classes to identify subclasses
 
 ### Note
 All sensitive information and data have been removed.
