@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[ ]:
-
-
 import numpy as np
 import pandas as pd
 import logging
@@ -20,9 +17,6 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
 eng_stopwords = stopwords.words('english')
-
-
-# In[ ]:
 
 
 def narrative_cleaner(narrative, lemmatize=True, stem=False):
@@ -59,9 +53,6 @@ def narrative_cleaner(narrative, lemmatize=True, stem=False):
     return(clean_narrative)
 
 
-# In[ ]:
-
-
 def build_save_w2v(narratives, num_features=300, min_word_count=1, num_workers=2, context=10, save=True, save_directory):
     """
     Builds and saves Word2Vec Model
@@ -90,5 +81,3 @@ def build_save_w2v(narratives, num_features=300, min_word_count=1, num_workers=2
         # save the model for later use
         model_name = "{}features_{}minwords_{}context".format(num_features, min_word_count, context)
         model.save(model_name)
-        
-

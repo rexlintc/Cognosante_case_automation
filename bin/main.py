@@ -28,10 +28,10 @@ def main():
 	if FLAGS.evaluate:
 		logging.INFO('Evaluating the trained model')
 
-	if 
+	if FLAGS.predict:
+    logging.INFO('Making predictions')
 
 	pass
-
 
 
 if __name__ == '__main__':
@@ -52,4 +52,3 @@ if __name__ == '__main__':
       help='Predict.',
       action='store_true')
   FLAGS, unparsed = parser.parse_known_args()
-  # tf.app.run(main=main, argv=[sys.argv[0]] + unparsed)
